@@ -6,7 +6,8 @@ public class HelloTest {
    @Test
 	public void testMethod()
 	{
-		System.out.println("Helo in testMethod");
+		System.out.println("Helo in testMethod  updateedd");
+		
 	}
 
 }
